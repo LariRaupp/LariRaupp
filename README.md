@@ -1,4 +1,4 @@
-### ✨ Hello, I'm Larissa! :heartpulse:
+### ✨ Hello, I'm Larissa! 💗
 
 💻 Aspiring Full-Stack Developer currently following the Full-Stack Career Path at Codecademy and enrolled to start a Computer Science degree in August 2025.
 
@@ -6,7 +6,21 @@
 
 🐱 Cat lover, gamer at heart, and always curious about how things work.
 
-I'm passionate about creating meaningful things with code and growing a career in tech. Always open to collaboration, feedback, and new challenges!
+I'm working to develop both my skills and career by building real projects and learning every step of the way. Always open to collaboration, feedback, and new challenges!
+
+<details>
+  <summary>🇧🇷</summary>
+  
+<em>✨ Olá, eu sou a Larissa! 💗
+
+💻 Desenvolvedora em formação, atualmente seguindo o **Path Full-Stack na Codecademy** e matriculada para iniciar a **graduação em Ciência da Computação** em Agosto de 2025.
+
+🎓 Farmacêutica de formação, agora em transição para a área de tecnologia, com paixão por programação, aprendizado prático e projetos reais.
+
+🐱 Apaixonada por gatos, jogadora nas horas vagas e sempre curiosa sobre como as coisas funcionam.
+
+Buscando desenvolver minhas habilidades e minha carreira construindo projetos reais e aprendendo em cada etapa do caminho. Estou sempre aberta a colaborações, feedbacks e novos desafios!</em>
+</details>
 
 ---
 #### 💻 Tech & Tools

@@ -1,6 +1,6 @@
 ### ✨ Hello, I'm Larissa! 💗
 
-💻 Aspiring Full-Stack Developer currently following the Full-Stack Career Path at Codecademy and enrolled to start a Computer Science degree in August 2025.
+💻 Aspiring Full-Stack Developer currently following the Full-Stack Career Path at Codecademy and pursuing a Computer Science degree at CESUCA.
 
 🎓 Originally trained as a pharmacist, now transitioning into tech with a passion for coding, learning by doing, and building real-world projects.
 

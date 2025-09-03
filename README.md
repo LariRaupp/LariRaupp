@@ -13,7 +13,7 @@ I'm working to develop both my skills and career by building real projects and l
   
 <em>✨ Olá, eu sou a Larissa! 💗
 
-💻 Desenvolvedora em formação, atualmente seguindo o **Path Full-Stack na Codecademy** e matriculada para iniciar a **graduação em Ciência da Computação** em Agosto de 2025.
+💻 Desenvolvedora em formação, atualmente seguindo o **Path Full-Stack na Codecademy** e cursando **Ciência da Computação** na CESUCA.
 
 🎓 Farmacêutica de formação, agora em transição para a área de tecnologia, com paixão por programação, aprendizado prático e projetos reais.
 
